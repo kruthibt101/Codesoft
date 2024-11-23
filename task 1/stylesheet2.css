@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style2.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NICHE SHOES</title>
+</head>
+<body>
+    <section class="header">
+        <div id="LandingPage">
+    <nav>
+    <div class="nav-links">
+    <ul>   
+    <li>  <a href="#">NICHE SHOES</a></li>
+    </ul>
+    <div class="c">  
+    <li>  <a href="#" class="bt" onclick="b()">login</a></li></div>
+    <script>
+     function b(){
+                    document.write("ENTER YOUR USER NAME<input type=text><BR><BR>ENTER THE PASSWORD <input type=password><br><br><li><a href=# class=bt onclick=c()>submit</a></li></div>") 
+                }
+    </script>
+    </div>
+    <div class="form-group">
+        <input type="text" name="" placeholder="Search Shoes">
+    </div>
+
+
+    <div> <li>  <a href="#" class="btn1" onclick="C()"><h1>>BROGUES & LACEUP</h1></a></li></div> <br> 
+    <script>
+        function C(){
+            document.write("HERE WE GET THE SHOES FOR BROGUES & LACEUP ") 
+        }
+    </script>
+    <div> <li>  <a href="#" class="btn2" onclick="D()"><h1>>LOAFERS / MONKS</h1></a></li></div><br>
+    <script>
+        function D(){
+            document.write("HERE WE GET THE SHOES FOR LOAFERS / MONKS ") 
+        }
+    </script>
+    <div> <li>  <a href="#" class="btn2" onclick="E()"><h1>>MOJARI / SANDALS</h1></a></li></div> <br>
+    <script>
+        function E(){
+            document.write("HERE WE GET THE SHOES FOR MOJARI / SANDALS ") 
+        }
+     </script>  
+    <div> <li>  <a href="#" class="btn2" onclick="F()"><h1>>CASUAL BOATS</h1></a></li></div> <br>
+    <script>
+        function F(){
+            document.write("HERE WE GET THE SHOES FOR CASUAL BOATS ") 
+        }
+     </script>  
+    <div> <li>  <a href="#" class="btn2" onclick="G()"><h1>>BOATS</h1></a></li></div> <br>   
+    <script>
+        function G(){
+            document.write("HERE WE GET THE SHOES FOR  BOATS ") 
+        }
+     </script>  
+    <div class="content">  
+    <p>  We are passionate about shoes and the artists who make them.<br>Our goal is to create products that are luxurious, comfortable, <br> and stylish.We work with local artisans in India to create our <br> handmade shoes.The quality of our products is unmatched by <br>any other brand on the market, and you can be sure that each  <br>pair of shoes is made with love and care.</p>
+    </div>
+    <section class="footer">
+        <BR>
+        <h2>About us</h2>
+        <br>
+        <p>WE SATISFY THE NEEDS BASED ON THE CUSTOMER AS OUR SHOES ARE HANDMADE  </p>
+        <section class="foot">    
+            <div> <li>  <a href="#" class="b1" onclick="A()"><h1>CONTACT US </h1></a></li></div>
+            <script>
+                function A(){
+                    document.write("gmail--info@niche.in <br><br> whatsapp --9953667607<br><br>Instagram --@nicheshoeindia ") 
+                }
+            </script>
+</body>
+</html>
